@@ -1,2 +1,2 @@
 # pwtd
-Code for the piece "Play with the Dust", made with SuperCollider.
+Code for the piece "play with the dust", made with SuperCollider.
